@@ -56,7 +56,7 @@ Dividem-se em **subject pronouns** e **object pronouns**.
 
 | Inglês | Português |
 |------|-----------|
-| me | meu |
+| me | me/mim |
 | you | você |
 | him | ele |
 | her | ela |
