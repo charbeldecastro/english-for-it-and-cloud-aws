@@ -1,4 +1,4 @@
-# Module 01 – Pronouns (Beginner)
+# Module 01 – Pronouns
 
 > Level: Beginner  
 > Area: English for IT & Cloud (AWS)
