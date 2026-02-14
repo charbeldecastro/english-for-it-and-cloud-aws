@@ -1,175 +1,177 @@
 # Module 02 – Regular and Irregular Verbs (Beginner)
 
-> Level: Beginner  
-> Area: English for IT & Cloud (AWS)
+Level: Beginner  
+Area: English for IT & Cloud (AWS)
 
 ---
 
-## 🎯 Objetivo do módulo (Português)
+## Objetivo do módulo
 
-Aprender a diferença entre **verbos regulares e irregulares em inglês**, especialmente no **Simple Past (passado simples)**, usando exemplos reais do dia a dia de TI e Cloud (AWS).
+Neste módulo eu estudei a diferença entre **verbos regulares e irregulares em inglês**, com foco no **Simple Past (passado simples)**.
 
-Este conteúdo é importante para:
+A ideia foi entender como usar o passado para falar sobre atividades já realizadas, principalmente no contexto de:
 
-- Ler documentação técnica  
-- Escrever tickets e relatórios  
-- Descrever tarefas realizadas no passado  
+- Projetos de TI  
+- Sprints  
+- Deploy na AWS  
+- Relatórios técnicos  
+- Documentação  
 
----
-
-# 1️⃣ Regular Verbs (Verbos Regulares)
-
-## 📘 Regra
-
-Os verbos regulares seguem um padrão previsível:
-
-**Forma base + -ed**
-
-Isso vale para:
-- Simple Past  
-- Past Participle  
+Percebi que, na área de tecnologia, usamos o passado o tempo todo para descrever o que foi feito.
 
 ---
 
-## 📌 Exemplos
+# 1. Regular Verbs (Verbos Regulares)
+
+## Regra principal
+
+Os verbos regulares seguem um padrão simples:
+
+**Forma base + ed**
+
+Essa regra vale tanto para o Simple Past quanto para o Past Participle.
+
+---
+
+## Exemplos gerais (TI)
 
 **Simple Present:**  
-We plan the project's roadmap every quarter.  
-*(Nós planejamos o roadmap do projeto a cada trimestre.)*
+We plan the project architecture every month.
 
 **Simple Past:**  
-We planned the migration strategy last week.  
-*(Nós planejamos a estratégia de migração na semana passada.)*
-
----
-
-**Simple Present:**  
-We implement new features using Agile methodologies.  
-*(Nós implementamos novas funcionalidades usando metodologias ágeis.)*
-
-**Simple Past:**  
-Last month, we implemented a new authentication system.  
-*(No mês passado, nós implementamos um novo sistema de autenticação.)*
-
----
-
-**The developer tested the new API yesterday.**  
-*(O desenvolvedor testou a nova API ontem.)*
-
-**We reviewed the project timeline during the last sprint planning meeting.**  
-*(Nós revisamos o cronograma do projeto na última reunião de planejamento da sprint.)*
-
-**The IT department monitored compliance with company policies.**  
-*(O departamento de TI monitorou a conformidade com as políticas da empresa.)*
-
----
-
-## ☁️ Exemplos com AWS (Regulares)
-
-**We deployed the application on AWS EC2.**  
-*(Nós implantamos a aplicação no AWS EC2.)*
-
-**The team configured the S3 bucket yesterday.**  
-*(O time configurou o bucket S3 ontem.)*
-
-**We updated the IAM policy last night.**  
-*(Nós atualizamos a política do IAM ontem à noite.)*
-
----
-
-# 2️⃣ Irregular Verbs (Verbos Irregulares)
-
-## 📘 Regra
-
-Os verbos irregulares **não seguem o padrão -ed**.
-
-Cada verbo possui sua própria forma:
-
-Base form → Simple Past → Past Participle  
-
-Exemplo:  
-write → wrote → written  
-take → took → taken  
-
----
-
-## 📌 Exemplos
-
-**Simple Present:**  
-We build microservices architectures.  
-*(Nós construímos arquiteturas de microsserviços.)*
-
-**Simple Past:**  
-We built a scalable cloud infrastructure last year.  
-*(Nós construímos uma infraestrutura de nuvem escalável no ano passado.)*
+We planned the cloud migration last week.
 
 ---
 
 **Simple Present:**  
-I write unit tests for each function.  
-*(Eu escrevo testes unitários para cada função.)*
+We implement new features.
 
 **Simple Past:**  
-Last week, I wrote test cases for the new module.  
-*(Na semana passada, eu escrevi casos de teste para o novo módulo.)*
+We implemented a new login system.
 
 ---
 
-**He wrote a custom CSS framework for the application last month.**  
-*(Ele escreveu um framework CSS customizado para a aplicação no mês passado.)*
+**The developer tested the new API yesterday.**
 
-**They built an automated CI/CD pipeline using Jenkins and Docker.**  
-*(Eles construíram um pipeline CI/CD automatizado usando Jenkins e Docker.)*
+**We reviewed the documentation during the sprint.**
 
-**The security team took proactive measures to mitigate potential risks.**  
-*(A equipe de segurança tomou medidas proativas para mitigar riscos potenciais.)*
+**The IT team monitored the system performance.**
 
 ---
 
-## ☁️ Exemplos com AWS (Irregulares)
+## Exemplos com AWS
+
+**We deployed the application on AWS EC2.**
+
+**The team configured the S3 bucket.**
+
+**We updated the IAM policy last night.**
+
+Aqui dá para perceber que basta adicionar “ed” na maioria dos casos.
+
+---
+
+# 2. Irregular Verbs (Verbos Irregulares)
+
+## Regra
+
+Os verbos irregulares não seguem o padrão “-ed”.  
+Cada um tem sua própria forma no passado.
+
+Exemplos clássicos:
+
+- write → wrote → written  
+- take → took → taken  
+- build → built → built  
+
+Não tem fórmula. É memorização e prática.
+
+---
+
+## Exemplos gerais (TI)
+
+**Simple Present:**  
+We build scalable systems.
+
+**Simple Past:**  
+We built a cloud infrastructure last year.
+
+---
+
+**Simple Present:**  
+I write unit tests.
+
+**Simple Past:**  
+I wrote new test cases yesterday.
+
+---
+
+**The team took responsibility for the incident.**
+
+**They built an automated CI/CD pipeline.**
+
+---
+
+## Exemplos com AWS
 
 **We ran the deployment script on AWS.**  
-*(Nós executamos o script de deploy na AWS.)*
+(run → ran)
 
-**The system found an error in the CloudWatch logs.**  
-*(O sistema encontrou um erro nos logs do CloudWatch.)*
+**The system found an error in CloudWatch.**  
+(find → found)
 
-**The team chose to migrate to AWS this year.**  
-*(O time escolheu migrar para a AWS este ano.)*
+**The team chose to migrate to AWS.**  
+(choose → chose)
 
-**They brought the backup servers online during the outage.**  
-*(Eles colocaram os servidores de backup online durante a falha.)*
+**They brought the backup servers online.**  
+(bring → brought)
 
----
-
-# 3️⃣ Comparação Rápida
-
-| Tipo | Regra |
-|------|--------|
-| Regular | Base + ed |
-| Irregular | Forma muda |
+Aqui já dá para ver que não existe padrão fixo.
 
 ---
 
-## 🧠 Anotações Pessoais (Português)
+# 3. Comparação direta
 
-- Verbos regulares seguem padrão (-ed).  
-- Verbos irregulares precisam ser memorizados.  
-- Em TI usamos muito o passado para descrever tarefas concluídas.  
-- Em Cloud e AWS, relatórios e incidentes utilizam frequentemente o Simple Past.  
-
----
-
-## 🔁 Revisão Rápida
-
-- Tema principal: Verbos no passado  
-- Regular: plan → planned  
-- Irregular: build → built  
-- Uso em TI: relatórios, sprints, deploys  
-- Uso em AWS: configuração, migração, incidentes  
+| Tipo        | Como funciona |
+|-------------|---------------|
+| Regular     | Base + ed     |
+| Irregular   | Forma muda    |
 
 ---
 
-## ✅ Conclusão
+# 4. Anotações pessoais
 
-Neste módulo aprendi a diferença entre verbos regulares e irregulares no inglês técnico, utilizando exemplos práticos de TI e Cloud (AWS), facilitando a comunicação sobre tarefas realizadas no passado.
+- Verbos regulares são mais fáceis porque seguem padrão.
+- Verbos irregulares exigem prática e repetição.
+- Em TI usamos muito o passado para descrever tarefas concluídas.
+- Em Cloud e AWS é comum escrever frases como:
+  - We deployed  
+  - We fixed  
+  - We updated  
+  - We built  
+  - We found  
+
+Isso aparece em tickets, changelogs, relatórios e documentação técnica.
+
+---
+
+# 5. Revisão rápida
+
+Regular:
+- plan → planned  
+- deploy → deployed  
+- configure → configured  
+
+Irregular:
+- build → built  
+- write → wrote  
+- run → ran  
+- take → took  
+
+---
+
+## Conclusão
+
+Neste módulo eu aprendi a identificar e usar corretamente verbos regulares e irregulares no passado, principalmente em situações relacionadas à TI e AWS.
+
+Isso é importante porque, na área de tecnologia, quase sempre precisamos explicar o que já foi feito: deploys, correções, implementações, testes e configurações.
