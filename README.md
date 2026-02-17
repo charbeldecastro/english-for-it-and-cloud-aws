@@ -1,4 +1,4 @@
-# English for IT, Cloud & AWS (Beginner)
+# English for IT, Cloud & AWS
 
 ## 📌 Sobre este repositório
 Este repositório documenta meus estudos de **Inglês para Tecnologia da Informação**, com foco em **Cloud Computing e AWS**, em nível iniciante.
